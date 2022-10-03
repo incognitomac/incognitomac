@@ -1,7 +1,9 @@
 - 👋 Hi, I’m @incognitomac
 - I'm a student at ASU (Arizona State University)
-- I am learning Python as of currently and that is my first langauge!
-- You can reach my @gridironmac@gmail.com
+- I'm always open to collaboration and learning new things so don't be afraid to contact me!
+- Some hobbies of mine are competitive skeet shooting, SCUBA diving, Snorkeling and reading.
+- I am learning Java and Python as of currently with Python being my first language!
+- You can reach me @gridironmac@gmail.com
 
 <!---
 incognitomac/incognitomac is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
